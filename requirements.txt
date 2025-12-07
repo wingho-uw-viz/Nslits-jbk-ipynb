@@ -16,3 +16,4 @@ jupyter-lsp
 jupyterlab
 notebook
 jupyter-book
+voila
